@@ -80,7 +80,7 @@ public class RoomManager {
 		
 		Room master = new Room("Master Bedroom",
 				"A nice sized bedroom", 
-				"gg");
+				"Just a lovely bedroom not much to say about it");
 		master.addItem("Bed");
 		master.addItem("Nightstand");
 		master.addItem("Dresser");
